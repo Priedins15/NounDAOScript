@@ -1,0 +1,1104 @@
+Bid data from https://nouns.wtf/noun/0001: Ξ 613.37
+Bid data from https://nouns.wtf/noun/0002: Ξ 69.69
+Bid data from https://nouns.wtf/noun/0003: Ξ 36.69
+Bid data from https://nouns.wtf/noun/0004: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0005: Ξ 50.00
+Bid data from https://nouns.wtf/noun/0006: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0007: Ξ 125.00
+Bid data from https://nouns.wtf/noun/0008: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0009: Ξ 155.00
+Bid data from https://nouns.wtf/noun/0010: n/a
+Bid data from https://nouns.wtf/noun/0011: Ξ 113.33
+Bid data from https://nouns.wtf/noun/0012: Ξ 126.48
+Bid data from https://nouns.wtf/noun/0013: Ξ 128.13
+Bid data from https://nouns.wtf/noun/0014: Ξ 144.44
+Bid data from https://nouns.wtf/noun/0015: Ξ 118.00
+Bid data from https://nouns.wtf/noun/0016: Ξ 168.88
+Bid data from https://nouns.wtf/noun/0017: Ξ 140.00
+Bid data from https://nouns.wtf/noun/0018: Ξ 175.18
+Bid data from https://nouns.wtf/noun/0019: Ξ 138.72
+Bid data from https://nouns.wtf/noun/0020: n/a
+Bid data from https://nouns.wtf/noun/0021: Ξ 200.00
+Bid data from https://nouns.wtf/noun/0022: Ξ 170.69
+Bid data from https://nouns.wtf/noun/0023: Ξ 198.00
+Bid data from https://nouns.wtf/noun/0024: Ξ 194.00
+Bid data from https://nouns.wtf/noun/0025: Ξ 195.00
+Bid data from https://nouns.wtf/noun/0026: Ξ 235.50
+Bid data from https://nouns.wtf/noun/0027: Ξ 245.00
+Bid data from https://nouns.wtf/noun/0028: Ξ 180.00
+Bid data from https://nouns.wtf/noun/0029: Ξ 180.00
+Bid data from https://nouns.wtf/noun/0030: n/a
+Bid data from https://nouns.wtf/noun/0031: Ξ 140.00
+Bid data from https://nouns.wtf/noun/0032: Ξ 150.69
+Bid data from https://nouns.wtf/noun/0033: Ξ 199.69
+Bid data from https://nouns.wtf/noun/0034: Ξ 140.00
+Bid data from https://nouns.wtf/noun/0035: Ξ 127.00
+Bid data from https://nouns.wtf/noun/0036: Ξ 200.00
+Bid data from https://nouns.wtf/noun/0037: Ξ 130.00
+Bid data from https://nouns.wtf/noun/0038: Ξ 138.00
+Bid data from https://nouns.wtf/noun/0039: Ξ 170.00
+Bid data from https://nouns.wtf/noun/0040: n/a
+Bid data from https://nouns.wtf/noun/0041: Ξ 144.44
+Bid data from https://nouns.wtf/noun/0042: Ξ 133.70
+Bid data from https://nouns.wtf/noun/0043: Ξ 148.00
+Bid data from https://nouns.wtf/noun/0044: Ξ 130.56
+Bid data from https://nouns.wtf/noun/0045: Ξ 155.00
+Bid data from https://nouns.wtf/noun/0046: Ξ 141.00
+Bid data from https://nouns.wtf/noun/0047: Ξ 269.69
+Bid data from https://nouns.wtf/noun/0048: Ξ 107.00
+Bid data from https://nouns.wtf/noun/0049: Ξ 125.00
+Bid data from https://nouns.wtf/noun/0050: n/a
+Bid data from https://nouns.wtf/noun/0051: Ξ 140.50
+Bid data from https://nouns.wtf/noun/0052: Ξ 125.00
+Bid data from https://nouns.wtf/noun/0053: Ξ 165.12
+Bid data from https://nouns.wtf/noun/0054: Ξ 131.31
+Bid data from https://nouns.wtf/noun/0055: Ξ 128.50
+Bid data from https://nouns.wtf/noun/0056: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0057: Ξ 101.69
+Bid data from https://nouns.wtf/noun/0058: Ξ 158.00
+Bid data from https://nouns.wtf/noun/0059: Ξ 115.00
+Bid data from https://nouns.wtf/noun/0060: n/a
+Bid data from https://nouns.wtf/noun/0061: Ξ 120.00
+Bid data from https://nouns.wtf/noun/0062: Ξ 140.00
+Bid data from https://nouns.wtf/noun/0063: Ξ 160.00
+Bid data from https://nouns.wtf/noun/0064: Ξ 198.00
+Bid data from https://nouns.wtf/noun/0065: Ξ 192.00
+Bid data from https://nouns.wtf/noun/0066: Ξ 153.00
+Bid data from https://nouns.wtf/noun/0067: Ξ 200.00
+Bid data from https://nouns.wtf/noun/0068: Ξ 204.00
+Bid data from https://nouns.wtf/noun/0069: Ξ 313.69
+Bid data from https://nouns.wtf/noun/0070: n/a
+Bid data from https://nouns.wtf/noun/0071: Ξ 175.00
+Bid data from https://nouns.wtf/noun/0072: Ξ 200.69
+Bid data from https://nouns.wtf/noun/0073: Ξ 201.00
+Bid data from https://nouns.wtf/noun/0074: Ξ 252.70
+Bid data from https://nouns.wtf/noun/0075: Ξ 192.00
+Bid data from https://nouns.wtf/noun/0076: Ξ 178.50
+Bid data from https://nouns.wtf/noun/0077: Ξ 200.69
+Bid data from https://nouns.wtf/noun/0078: Ξ 210.00
+Bid data from https://nouns.wtf/noun/0079: Ξ 195.00
+Bid data from https://nouns.wtf/noun/0080: n/a
+Bid data from https://nouns.wtf/noun/0081: Ξ 185.00
+Bid data from https://nouns.wtf/noun/0082: Ξ 211.82
+Bid data from https://nouns.wtf/noun/0083: Ξ 160.00
+Bid data from https://nouns.wtf/noun/0084: Ξ 200.00
+Bid data from https://nouns.wtf/noun/0085: Ξ 200.99
+Bid data from https://nouns.wtf/noun/0086: Ξ 162.00
+Bid data from https://nouns.wtf/noun/0087: Ξ 160.00
+Bid data from https://nouns.wtf/noun/0088: Ξ 229.69
+Bid data from https://nouns.wtf/noun/0089: Ξ 155.00
+Bid data from https://nouns.wtf/noun/0090: n/a
+Bid data from https://nouns.wtf/noun/0091: Ξ 146.00
+Bid data from https://nouns.wtf/noun/0092: Ξ 137.70
+Bid data from https://nouns.wtf/noun/0093: Ξ 133.69
+Bid data from https://nouns.wtf/noun/0094: Ξ 104.20
+Bid data from https://nouns.wtf/noun/0095: Ξ 97.69
+Bid data from https://nouns.wtf/noun/0096: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0097: Ξ 73.69
+Bid data from https://nouns.wtf/noun/0098: Ξ 105.77
+Bid data from https://nouns.wtf/noun/0099: Ξ 232.00
+Bid data from https://nouns.wtf/noun/0100: n/a
+Bid data from https://nouns.wtf/noun/0101: Ξ 80.00
+Bid data from https://nouns.wtf/noun/0102: Ξ 83.87
+Bid data from https://nouns.wtf/noun/0103: Ξ 78.23
+Bid data from https://nouns.wtf/noun/0104: Ξ 80.15
+Bid data from https://nouns.wtf/noun/0105: Ξ 74.18
+Bid data from https://nouns.wtf/noun/0106: Ξ 71.09
+Bid data from https://nouns.wtf/noun/0107: Ξ 71.00
+Bid data from https://nouns.wtf/noun/0108: Ξ 63.47
+Bid data from https://nouns.wtf/noun/0109: Ξ 69.00
+Bid data from https://nouns.wtf/noun/0110: n/a
+Bid data from https://nouns.wtf/noun/0111: Ξ 88.69
+Bid data from https://nouns.wtf/noun/0112: Ξ 82.33
+Bid data from https://nouns.wtf/noun/0113: Ξ 75.00
+Bid data from https://nouns.wtf/noun/0114: Ξ 73.33
+Bid data from https://nouns.wtf/noun/0115: Ξ 64.99
+Bid data from https://nouns.wtf/noun/0116: Ξ 86.66
+Bid data from https://nouns.wtf/noun/0117: Ξ 69.69
+Bid data from https://nouns.wtf/noun/0118: Ξ 99.99
+Bid data from https://nouns.wtf/noun/0119: Ξ 71.69
+Bid data from https://nouns.wtf/noun/0120: n/a
+Bid data from https://nouns.wtf/noun/0121: Ξ 53.00
+Bid data from https://nouns.wtf/noun/0122: Ξ 41.00
+Bid data from https://nouns.wtf/noun/0123: Ξ 67.50
+Bid data from https://nouns.wtf/noun/0124: Ξ 41.30
+Bid data from https://nouns.wtf/noun/0125: Ξ 40.00
+Bid data from https://nouns.wtf/noun/0126: Ξ 44.44
+Bid data from https://nouns.wtf/noun/0127: Ξ 24.20
+Bid data from https://nouns.wtf/noun/0128: Ξ 45.38
+Bid data from https://nouns.wtf/noun/0129: Ξ 69.00
+Bid data from https://nouns.wtf/noun/0130: n/a
+Bid data from https://nouns.wtf/noun/0131: Ξ 53.75
+Bid data from https://nouns.wtf/noun/0132: Ξ 54.77
+Bid data from https://nouns.wtf/noun/0133: Ξ 62.89
+Bid data from https://nouns.wtf/noun/0134: Ξ 49.69
+Bid data from https://nouns.wtf/noun/0135: Ξ 48.00
+Bid data from https://nouns.wtf/noun/0136: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0137: Ξ 49.00
+Bid data from https://nouns.wtf/noun/0138: Ξ 39.28
+Bid data from https://nouns.wtf/noun/0139: Ξ 36.44
+Bid data from https://nouns.wtf/noun/0140: n/a
+Bid data from https://nouns.wtf/noun/0141: Ξ 46.50
+Bid data from https://nouns.wtf/noun/0142: Ξ 33.66
+Bid data from https://nouns.wtf/noun/0143: Ξ 32.05
+Bid data from https://nouns.wtf/noun/0144: Ξ 34.69
+Bid data from https://nouns.wtf/noun/0145: Ξ 34.38
+Bid data from https://nouns.wtf/noun/0146: Ξ 40.34
+Bid data from https://nouns.wtf/noun/0147: Ξ 44.44
+Bid data from https://nouns.wtf/noun/0148: Ξ 37.46
+Bid data from https://nouns.wtf/noun/0149: Ξ 49.25
+Bid data from https://nouns.wtf/noun/0150: n/a
+Bid data from https://nouns.wtf/noun/0151: Ξ 63.70
+Bid data from https://nouns.wtf/noun/0152: Ξ 65.69
+Bid data from https://nouns.wtf/noun/0153: Ξ 38.00
+Bid data from https://nouns.wtf/noun/0154: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0155: Ξ 42.69
+Bid data from https://nouns.wtf/noun/0156: Ξ 49.69
+Bid data from https://nouns.wtf/noun/0157: Ξ 48.84
+Bid data from https://nouns.wtf/noun/0158: Ξ 54.00
+Bid data from https://nouns.wtf/noun/0159: Ξ 69.00
+Bid data from https://nouns.wtf/noun/0160: n/a
+Bid data from https://nouns.wtf/noun/0161: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0162: Ξ 45.91
+Bid data from https://nouns.wtf/noun/0163: Ξ 56.57
+Bid data from https://nouns.wtf/noun/0164: Ξ 61.20
+Bid data from https://nouns.wtf/noun/0165: Ξ 65.69
+Bid data from https://nouns.wtf/noun/0166: Ξ 41.44
+Bid data from https://nouns.wtf/noun/0167: Ξ 49.99
+Bid data from https://nouns.wtf/noun/0168: Ξ 72.11
+Bid data from https://nouns.wtf/noun/0169: Ξ 41.73
+Bid data from https://nouns.wtf/noun/0170: n/a
+Bid data from https://nouns.wtf/noun/0171: Ξ 55.00
+Bid data from https://nouns.wtf/noun/0172: Ξ 55.00
+Bid data from https://nouns.wtf/noun/0173: Ξ 67.00
+Bid data from https://nouns.wtf/noun/0174: Ξ 57.83
+Bid data from https://nouns.wtf/noun/0175: Ξ 67.00
+Bid data from https://nouns.wtf/noun/0176: Ξ 67.63
+Bid data from https://nouns.wtf/noun/0177: Ξ 99.99
+Bid data from https://nouns.wtf/noun/0178: Ξ 54.00
+Bid data from https://nouns.wtf/noun/0179: Ξ 127.00
+Bid data from https://nouns.wtf/noun/0180: n/a
+Bid data from https://nouns.wtf/noun/0181: Ξ 102.69
+Bid data from https://nouns.wtf/noun/0182: Ξ 98.88
+Bid data from https://nouns.wtf/noun/0183: Ξ 62.00
+Bid data from https://nouns.wtf/noun/0184: Ξ 103.00
+Bid data from https://nouns.wtf/noun/0185: Ξ 66.69
+Bid data from https://nouns.wtf/noun/0186: Ξ 88.88
+Bid data from https://nouns.wtf/noun/0187: Ξ 76.00
+Bid data from https://nouns.wtf/noun/0188: Ξ 91.00
+Bid data from https://nouns.wtf/noun/0189: Ξ 89.89
+Bid data from https://nouns.wtf/noun/0190: n/a
+Bid data from https://nouns.wtf/noun/0191: Ξ 87.72
+Bid data from https://nouns.wtf/noun/0192: Ξ 88.88
+Bid data from https://nouns.wtf/noun/0193: Ξ 77.60
+Bid data from https://nouns.wtf/noun/0194: Ξ 90.00
+Bid data from https://nouns.wtf/noun/0195: Ξ 101.99
+Bid data from https://nouns.wtf/noun/0196: Ξ 70.00
+Bid data from https://nouns.wtf/noun/0197: Ξ 120.69
+Bid data from https://nouns.wtf/noun/0198: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0199: Ξ 99.99
+Bid data from https://nouns.wtf/noun/0200: n/a
+Bid data from https://nouns.wtf/noun/0201: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0202: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0203: Ξ 118.00
+Bid data from https://nouns.wtf/noun/0204: Ξ 79.00
+Bid data from https://nouns.wtf/noun/0205: Ξ 103.10
+Bid data from https://nouns.wtf/noun/0206: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0207: Ξ 75.00
+Bid data from https://nouns.wtf/noun/0208: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0209: Ξ 89.00
+Bid data from https://nouns.wtf/noun/0210: n/a
+Bid data from https://nouns.wtf/noun/0211: Ξ 109.69
+Bid data from https://nouns.wtf/noun/0212: Ξ 70.30
+Bid data from https://nouns.wtf/noun/0213: Ξ 78.62
+Bid data from https://nouns.wtf/noun/0214: Ξ 93.00
+Bid data from https://nouns.wtf/noun/0215: Ξ 82.83
+Bid data from https://nouns.wtf/noun/0216: Ξ 72.40
+Bid data from https://nouns.wtf/noun/0217: Ξ 73.00
+Bid data from https://nouns.wtf/noun/0218: Ξ 73.00
+Bid data from https://nouns.wtf/noun/0219: Ξ 71.00
+Bid data from https://nouns.wtf/noun/0220: n/a
+Bid data from https://nouns.wtf/noun/0221: Ξ 53.00
+Bid data from https://nouns.wtf/noun/0222: Ξ 50.69
+Bid data from https://nouns.wtf/noun/0223: Ξ 53.33
+Bid data from https://nouns.wtf/noun/0224: Ξ 56.69
+Bid data from https://nouns.wtf/noun/0225: Ξ 59.99
+Bid data from https://nouns.wtf/noun/0226: Ξ 66.66
+Bid data from https://nouns.wtf/noun/0227: Ξ 60.35
+Bid data from https://nouns.wtf/noun/0228: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0229: Ξ 48.00
+Bid data from https://nouns.wtf/noun/0230: n/a
+Bid data from https://nouns.wtf/noun/0231: Ξ 47.00
+Bid data from https://nouns.wtf/noun/0232: Ξ 75.00
+Bid data from https://nouns.wtf/noun/0233: Ξ 45.29
+Bid data from https://nouns.wtf/noun/0234: Ξ 48.00
+Bid data from https://nouns.wtf/noun/0235: Ξ 48.00
+Bid data from https://nouns.wtf/noun/0236: Ξ 48.00
+Bid data from https://nouns.wtf/noun/0237: Ξ 54.84
+Bid data from https://nouns.wtf/noun/0238: Ξ 64.74
+Bid data from https://nouns.wtf/noun/0239: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0240: n/a
+Bid data from https://nouns.wtf/noun/0241: Ξ 59.69
+Bid data from https://nouns.wtf/noun/0242: Ξ 57.50
+Bid data from https://nouns.wtf/noun/0243: Ξ 64.95
+Bid data from https://nouns.wtf/noun/0244: Ξ 84.90
+Bid data from https://nouns.wtf/noun/0245: Ξ 65.00
+Bid data from https://nouns.wtf/noun/0246: Ξ 58.88
+Bid data from https://nouns.wtf/noun/0247: Ξ 72.23
+Bid data from https://nouns.wtf/noun/0248: Ξ 66.97
+Bid data from https://nouns.wtf/noun/0249: Ξ 70.88
+Bid data from https://nouns.wtf/noun/0250: n/a
+Bid data from https://nouns.wtf/noun/0251: Ξ 81.69
+Bid data from https://nouns.wtf/noun/0252: Ξ 87.00
+Bid data from https://nouns.wtf/noun/0253: Ξ 80.00
+Bid data from https://nouns.wtf/noun/0254: Ξ 53.00
+Bid data from https://nouns.wtf/noun/0255: Ξ 63.00
+Bid data from https://nouns.wtf/noun/0256: Ξ 69.00
+Bid data from https://nouns.wtf/noun/0257: Ξ 58.75
+Bid data from https://nouns.wtf/noun/0258: Ξ 63.25
+Bid data from https://nouns.wtf/noun/0259: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0260: n/a
+Bid data from https://nouns.wtf/noun/0261: Ξ 58.00
+Bid data from https://nouns.wtf/noun/0262: Ξ 44.57
+Bid data from https://nouns.wtf/noun/0263: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0264: Ξ 58.00
+Bid data from https://nouns.wtf/noun/0265: Ξ 62.00
+Bid data from https://nouns.wtf/noun/0266: Ξ 89.69
+Bid data from https://nouns.wtf/noun/0267: Ξ 69.42
+Bid data from https://nouns.wtf/noun/0268: Ξ 64.27
+Bid data from https://nouns.wtf/noun/0269: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0270: n/a
+Bid data from https://nouns.wtf/noun/0271: Ξ 53.00
+Bid data from https://nouns.wtf/noun/0272: Ξ 55.10
+Bid data from https://nouns.wtf/noun/0273: Ξ 61.00
+Bid data from https://nouns.wtf/noun/0274: Ξ 65.00
+Bid data from https://nouns.wtf/noun/0275: Ξ 73.69
+Bid data from https://nouns.wtf/noun/0276: Ξ 76.69
+Bid data from https://nouns.wtf/noun/0277: Ξ 70.00
+Bid data from https://nouns.wtf/noun/0278: Ξ 63.00
+Bid data from https://nouns.wtf/noun/0279: Ξ 62.00
+Bid data from https://nouns.wtf/noun/0280: n/a
+Bid data from https://nouns.wtf/noun/0281: Ξ 70.00
+Bid data from https://nouns.wtf/noun/0282: Ξ 82.00
+Bid data from https://nouns.wtf/noun/0283: Ξ 79.99
+Bid data from https://nouns.wtf/noun/0284: Ξ 67.00
+Bid data from https://nouns.wtf/noun/0285: Ξ 69.42
+Bid data from https://nouns.wtf/noun/0286: Ξ 75.17
+Bid data from https://nouns.wtf/noun/0287: Ξ 75.00
+Bid data from https://nouns.wtf/noun/0288: Ξ 69.69
+Bid data from https://nouns.wtf/noun/0289: Ξ 99.62
+Bid data from https://nouns.wtf/noun/0290: n/a
+Bid data from https://nouns.wtf/noun/0291: Ξ 78.55
+Bid data from https://nouns.wtf/noun/0292: Ξ 73.00
+Bid data from https://nouns.wtf/noun/0293: Ξ 84.50
+Bid data from https://nouns.wtf/noun/0294: Ξ 80.18
+Bid data from https://nouns.wtf/noun/0295: Ξ 105.06
+Bid data from https://nouns.wtf/noun/0296: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0297: Ξ 105.00
+Bid data from https://nouns.wtf/noun/0298: Ξ 81.00
+Bid data from https://nouns.wtf/noun/0299: Ξ 80.00
+Bid data from https://nouns.wtf/noun/0300: n/a
+Bid data from https://nouns.wtf/noun/0301: Ξ 79.00
+Bid data from https://nouns.wtf/noun/0302: Ξ 84.92
+Bid data from https://nouns.wtf/noun/0303: Ξ 88.60
+Bid data from https://nouns.wtf/noun/0304: Ξ 82.00
+Bid data from https://nouns.wtf/noun/0305: Ξ 77.00
+Bid data from https://nouns.wtf/noun/0306: Ξ 75.00
+Bid data from https://nouns.wtf/noun/0307: Ξ 160.00
+Bid data from https://nouns.wtf/noun/0308: Ξ 67.00
+Bid data from https://nouns.wtf/noun/0309: Ξ 76.00
+Bid data from https://nouns.wtf/noun/0310: n/a
+Bid data from https://nouns.wtf/noun/0311: Ξ 80.00
+Bid data from https://nouns.wtf/noun/0312: Ξ 77.21
+Bid data from https://nouns.wtf/noun/0313: Ξ 83.69
+Bid data from https://nouns.wtf/noun/0314: Ξ 80.00
+Bid data from https://nouns.wtf/noun/0315: Ξ 73.00
+Bid data from https://nouns.wtf/noun/0316: Ξ 215.00
+Bid data from https://nouns.wtf/noun/0317: Ξ 82.63
+Bid data from https://nouns.wtf/noun/0318: Ξ 144.00
+Bid data from https://nouns.wtf/noun/0319: Ξ 92.50
+Bid data from https://nouns.wtf/noun/0320: n/a
+Bid data from https://nouns.wtf/noun/0321: Ξ 85.55
+Bid data from https://nouns.wtf/noun/0322: Ξ 98.17
+Bid data from https://nouns.wtf/noun/0323: Ξ 99.00
+Bid data from https://nouns.wtf/noun/0324: Ξ 102.00
+Bid data from https://nouns.wtf/noun/0325: Ξ 88.00
+Bid data from https://nouns.wtf/noun/0326: Ξ 117.93
+Bid data from https://nouns.wtf/noun/0327: Ξ 125.00
+Bid data from https://nouns.wtf/noun/0328: Ξ 98.69
+Bid data from https://nouns.wtf/noun/0329: Ξ 103.37
+Bid data from https://nouns.wtf/noun/0330: n/a
+Bid data from https://nouns.wtf/noun/0331: Ξ 95.80
+Bid data from https://nouns.wtf/noun/0332: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0333: Ξ 117.30
+Bid data from https://nouns.wtf/noun/0334: Ξ 117.82
+Bid data from https://nouns.wtf/noun/0335: Ξ 143.82
+Bid data from https://nouns.wtf/noun/0336: Ξ 84.00
+Bid data from https://nouns.wtf/noun/0337: Ξ 120.00
+Bid data from https://nouns.wtf/noun/0338: Ξ 132.60
+Bid data from https://nouns.wtf/noun/0339: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0340: n/a
+Bid data from https://nouns.wtf/noun/0341: Ξ 95.53
+Bid data from https://nouns.wtf/noun/0342: Ξ 114.00
+Bid data from https://nouns.wtf/noun/0343: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0344: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0345: Ξ 90.00
+Bid data from https://nouns.wtf/noun/0346: Ξ 150.00
+Bid data from https://nouns.wtf/noun/0347: Ξ 128.00
+Bid data from https://nouns.wtf/noun/0348: Ξ 106.50
+Bid data from https://nouns.wtf/noun/0349: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0350: n/a
+Bid data from https://nouns.wtf/noun/0351: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0352: Ξ 103.10
+Bid data from https://nouns.wtf/noun/0353: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0354: Ξ 92.00
+Bid data from https://nouns.wtf/noun/0355: Ξ 125.00
+Bid data from https://nouns.wtf/noun/0356: Ξ 113.00
+Bid data from https://nouns.wtf/noun/0357: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0358: Ξ 115.00
+Bid data from https://nouns.wtf/noun/0359: Ξ 115.00
+Bid data from https://nouns.wtf/noun/0360: n/a
+Bid data from https://nouns.wtf/noun/0361: Ξ 100.00
+Bid data from https://nouns.wtf/noun/0362: Ξ 113.80
+Bid data from https://nouns.wtf/noun/0363: Ξ 99.69
+Bid data from https://nouns.wtf/noun/0364: Ξ 104.00
+Bid data from https://nouns.wtf/noun/0365: Ξ 120.00
+Bid data from https://nouns.wtf/noun/0366: Ξ 112.20
+Bid data from https://nouns.wtf/noun/0367: Ξ 113.22
+Bid data from https://nouns.wtf/noun/0368: Ξ 99.00
+Bid data from https://nouns.wtf/noun/0369: Ξ 111.00
+Bid data from https://nouns.wtf/noun/0370: n/a
+Bid data from https://nouns.wtf/noun/0371: Ξ 120.00
+Bid data from https://nouns.wtf/noun/0372: Ξ 106.90
+Bid data from https://nouns.wtf/noun/0373: Ξ 130.00
+Bid data from https://nouns.wtf/noun/0374: Ξ 102.00
+Bid data from https://nouns.wtf/noun/0375: Ξ 106.08
+Bid data from https://nouns.wtf/noun/0376: Ξ 102.00
+Bid data from https://nouns.wtf/noun/0377: Ξ 109.69
+Bid data from https://nouns.wtf/noun/0378: Ξ 109.35
+Bid data from https://nouns.wtf/noun/0379: Ξ 123.11
+Bid data from https://nouns.wtf/noun/0380: n/a
+Bid data from https://nouns.wtf/noun/0381: Ξ 101.00
+Bid data from https://nouns.wtf/noun/0382: Ξ 102.71
+Bid data from https://nouns.wtf/noun/0383: Ξ 104.75
+Bid data from https://nouns.wtf/noun/0384: Ξ 99.00
+Bid data from https://nouns.wtf/noun/0385: Ξ 106.90
+Bid data from https://nouns.wtf/noun/0386: Ξ 106.90
+Bid data from https://nouns.wtf/noun/0387: Ξ 95.00
+Bid data from https://nouns.wtf/noun/0388: Ξ 101.00
+Bid data from https://nouns.wtf/noun/0389: Ξ 103.02
+Bid data from https://nouns.wtf/noun/0390: n/a
+Bid data from https://nouns.wtf/noun/0391: Ξ 83.70
+Bid data from https://nouns.wtf/noun/0392: Ξ 86.70
+Bid data from https://nouns.wtf/noun/0393: Ξ 94.20
+Bid data from https://nouns.wtf/noun/0394: Ξ 77.94
+Bid data from https://nouns.wtf/noun/0395: Ξ 85.69
+Bid data from https://nouns.wtf/noun/0396: Ξ 85.70
+Bid data from https://nouns.wtf/noun/0397: Ξ 86.39
+Bid data from https://nouns.wtf/noun/0398: Ξ 85.80
+Bid data from https://nouns.wtf/noun/0399: Ξ 92.23
+Bid data from https://nouns.wtf/noun/0400: n/a
+Bid data from https://nouns.wtf/noun/0401: Ξ 95.32
+Bid data from https://nouns.wtf/noun/0402: Ξ 85.00
+Bid data from https://nouns.wtf/noun/0403: Ξ 79.40
+Bid data from https://nouns.wtf/noun/0404: Ξ 81.09
+Bid data from https://nouns.wtf/noun/0405: Ξ 79.50
+Bid data from https://nouns.wtf/noun/0406: Ξ 81.48
+Bid data from https://nouns.wtf/noun/0407: Ξ 77.70
+Bid data from https://nouns.wtf/noun/0408: Ξ 77.77
+Bid data from https://nouns.wtf/noun/0409: Ξ 82.00
+Bid data from https://nouns.wtf/noun/0410: n/a
+Bid data from https://nouns.wtf/noun/0411: Ξ 76.28
+Bid data from https://nouns.wtf/noun/0412: Ξ 76.69
+Bid data from https://nouns.wtf/noun/0413: Ξ 69.69
+Bid data from https://nouns.wtf/noun/0414: Ξ 61.20
+Bid data from https://nouns.wtf/noun/0415: Ξ 65.00
+Bid data from https://nouns.wtf/noun/0416: Ξ 63.36
+Bid data from https://nouns.wtf/noun/0417: Ξ 61.20
+Bid data from https://nouns.wtf/noun/0418: Ξ 77.40
+Bid data from https://nouns.wtf/noun/0419: Ξ 61.10
+Bid data from https://nouns.wtf/noun/0420: n/a
+Bid data from https://nouns.wtf/noun/0421: Ξ 61.20
+Bid data from https://nouns.wtf/noun/0422: Ξ 63.30
+Bid data from https://nouns.wtf/noun/0423: Ξ 67.69
+Bid data from https://nouns.wtf/noun/0424: Ξ 65.30
+Bid data from https://nouns.wtf/noun/0425: Ξ 67.00
+Bid data from https://nouns.wtf/noun/0426: Ξ 61.50
+Bid data from https://nouns.wtf/noun/0427: Ξ 72.43
+Bid data from https://nouns.wtf/noun/0428: Ξ 66.99
+Bid data from https://nouns.wtf/noun/0429: Ξ 74.97
+Bid data from https://nouns.wtf/noun/0430: n/a
+Bid data from https://nouns.wtf/noun/0431: Ξ 70.79
+Bid data from https://nouns.wtf/noun/0432: Ξ 77.09
+Bid data from https://nouns.wtf/noun/0433: Ξ 78.69
+Bid data from https://nouns.wtf/noun/0434: Ξ 78.10
+Bid data from https://nouns.wtf/noun/0435: Ξ 77.09
+Bid data from https://nouns.wtf/noun/0436: Ξ 68.60
+Bid data from https://nouns.wtf/noun/0437: Ξ 69.69
+Bid data from https://nouns.wtf/noun/0438: Ξ 73.04
+Bid data from https://nouns.wtf/noun/0439: Ξ 72.63
+Bid data from https://nouns.wtf/noun/0440: n/a
+Bid data from https://nouns.wtf/noun/0441: Ξ 70.70
+Bid data from https://nouns.wtf/noun/0442: Ξ 69.26
+Bid data from https://nouns.wtf/noun/0443: Ξ 69.42
+Bid data from https://nouns.wtf/noun/0444: Ξ 65.56
+Bid data from https://nouns.wtf/noun/0445: Ξ 70.38
+Bid data from https://nouns.wtf/noun/0446: Ξ 68.72
+Bid data from https://nouns.wtf/noun/0447: Ξ 69.23
+Bid data from https://nouns.wtf/noun/0448: Ξ 62.00
+Bid data from https://nouns.wtf/noun/0449: Ξ 72.69
+Bid data from https://nouns.wtf/noun/0450: n/a
+Bid data from https://nouns.wtf/noun/0451: Ξ 78.50
+Bid data from https://nouns.wtf/noun/0452: Ξ 72.09
+Bid data from https://nouns.wtf/noun/0453: Ξ 89.31
+Bid data from https://nouns.wtf/noun/0454: Ξ 69.42
+Bid data from https://nouns.wtf/noun/0455: Ξ 64.69
+Bid data from https://nouns.wtf/noun/0456: Ξ 72.09
+Bid data from https://nouns.wtf/noun/0457: Ξ 63.72
+Bid data from https://nouns.wtf/noun/0458: Ξ 63.72
+Bid data from https://nouns.wtf/noun/0459: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0460: n/a
+Bid data from https://nouns.wtf/noun/0461: Ξ 64.17
+Bid data from https://nouns.wtf/noun/0462: Ξ 60.56
+Bid data from https://nouns.wtf/noun/0463: Ξ 56.52
+Bid data from https://nouns.wtf/noun/0464: Ξ 69.00
+Bid data from https://nouns.wtf/noun/0465: Ξ 57.23
+Bid data from https://nouns.wtf/noun/0466: Ξ 58.04
+Bid data from https://nouns.wtf/noun/0467: Ξ 56.94
+Bid data from https://nouns.wtf/noun/0468: Ξ 60.00
+Bid data from https://nouns.wtf/noun/0469: Ξ 60.18
+Bid data from https://nouns.wtf/noun/0470: n/a
+Bid data from https://nouns.wtf/noun/0471: Ξ 56.69
+Bid data from https://nouns.wtf/noun/0472: Ξ 53.69
+Bid data from https://nouns.wtf/noun/0473: Ξ 48.56
+Bid data from https://nouns.wtf/noun/0474: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0475: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0476: Ξ 46.00
+Bid data from https://nouns.wtf/noun/0477: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0478: Ξ 40.00
+Bid data from https://nouns.wtf/noun/0479: Ξ 46.91
+Bid data from https://nouns.wtf/noun/0480: n/a
+Bid data from https://nouns.wtf/noun/0481: Ξ 42.87
+Bid data from https://nouns.wtf/noun/0482: Ξ 52.73
+Bid data from https://nouns.wtf/noun/0483: Ξ 43.52
+Bid data from https://nouns.wtf/noun/0484: Ξ 48.12
+Bid data from https://nouns.wtf/noun/0485: Ξ 49.12
+Bid data from https://nouns.wtf/noun/0486: Ξ 42.23
+Bid data from https://nouns.wtf/noun/0487: Ξ 52.79
+Bid data from https://nouns.wtf/noun/0488: Ξ 44.58
+Bid data from https://nouns.wtf/noun/0489: Ξ 44.44
+Bid data from https://nouns.wtf/noun/0490: n/a
+Bid data from https://nouns.wtf/noun/0491: Ξ 57.00
+Bid data from https://nouns.wtf/noun/0492: Ξ 49.58
+Bid data from https://nouns.wtf/noun/0493: Ξ 47.00
+Bid data from https://nouns.wtf/noun/0494: Ξ 44.99
+Bid data from https://nouns.wtf/noun/0495: Ξ 45.60
+Bid data from https://nouns.wtf/noun/0496: Ξ 55.00
+Bid data from https://nouns.wtf/noun/0497: Ξ 49.50
+Bid data from https://nouns.wtf/noun/0498: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0499: Ξ 42.50
+Bid data from https://nouns.wtf/noun/0500: n/a
+Bid data from https://nouns.wtf/noun/0501: Ξ 40.01
+Bid data from https://nouns.wtf/noun/0502: Ξ 37.30
+Bid data from https://nouns.wtf/noun/0503: Ξ 45.90
+Bid data from https://nouns.wtf/noun/0504: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0505: Ξ 45.48
+Bid data from https://nouns.wtf/noun/0506: Ξ 39.99
+Bid data from https://nouns.wtf/noun/0507: Ξ 36.69
+Bid data from https://nouns.wtf/noun/0508: Ξ 35.05
+Bid data from https://nouns.wtf/noun/0509: Ξ 37.56
+Bid data from https://nouns.wtf/noun/0510: n/a
+Bid data from https://nouns.wtf/noun/0511: Ξ 35.00
+Bid data from https://nouns.wtf/noun/0512: Ξ 34.68
+Bid data from https://nouns.wtf/noun/0513: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0514: Ξ 33.02
+Bid data from https://nouns.wtf/noun/0515: Ξ 35.03
+Bid data from https://nouns.wtf/noun/0516: Ξ 30.18
+Bid data from https://nouns.wtf/noun/0517: Ξ 33.58
+Bid data from https://nouns.wtf/noun/0518: Ξ 37.53
+Bid data from https://nouns.wtf/noun/0519: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0520: n/a
+Bid data from https://nouns.wtf/noun/0521: Ξ 32.33
+Bid data from https://nouns.wtf/noun/0522: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0523: Ξ 29.69
+Bid data from https://nouns.wtf/noun/0524: Ξ 26.42
+Bid data from https://nouns.wtf/noun/0525: Ξ 28.50
+Bid data from https://nouns.wtf/noun/0526: Ξ 30.07
+Bid data from https://nouns.wtf/noun/0527: Ξ 39.47
+Bid data from https://nouns.wtf/noun/0528: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0529: Ξ 27.00
+Bid data from https://nouns.wtf/noun/0530: n/a
+Bid data from https://nouns.wtf/noun/0531: Ξ 26.69
+Bid data from https://nouns.wtf/noun/0532: Ξ 32.00
+Bid data from https://nouns.wtf/noun/0533: Ξ 30.18
+Bid data from https://nouns.wtf/noun/0534: Ξ 29.43
+Bid data from https://nouns.wtf/noun/0535: Ξ 22.66
+Bid data from https://nouns.wtf/noun/0536: Ξ 32.03
+Bid data from https://nouns.wtf/noun/0537: Ξ 29.30
+Bid data from https://nouns.wtf/noun/0538: Ξ 29.80
+Bid data from https://nouns.wtf/noun/0539: Ξ 29.99
+Bid data from https://nouns.wtf/noun/0540: n/a
+Bid data from https://nouns.wtf/noun/0541: Ξ 32.62
+Bid data from https://nouns.wtf/noun/0542: Ξ 30.69
+Bid data from https://nouns.wtf/noun/0543: Ξ 30.20
+Bid data from https://nouns.wtf/noun/0544: Ξ 31.55
+Bid data from https://nouns.wtf/noun/0545: Ξ 34.50
+Bid data from https://nouns.wtf/noun/0546: Ξ 29.58
+Bid data from https://nouns.wtf/noun/0547: Ξ 33.66
+Bid data from https://nouns.wtf/noun/0548: Ξ 36.25
+Bid data from https://nouns.wtf/noun/0549: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0550: n/a
+Bid data from https://nouns.wtf/noun/0551: Ξ 36.45
+Bid data from https://nouns.wtf/noun/0552: Ξ 29.41
+Bid data from https://nouns.wtf/noun/0553: Ξ 35.90
+Bid data from https://nouns.wtf/noun/0554: Ξ 32.23
+Bid data from https://nouns.wtf/noun/0555: Ξ 37.00
+Bid data from https://nouns.wtf/noun/0556: Ξ 31.85
+Bid data from https://nouns.wtf/noun/0557: Ξ 29.33
+Bid data from https://nouns.wtf/noun/0558: Ξ 29.33
+Bid data from https://nouns.wtf/noun/0559: Ξ 30.50
+Bid data from https://nouns.wtf/noun/0560: n/a
+Bid data from https://nouns.wtf/noun/0561: Ξ 29.58
+Bid data from https://nouns.wtf/noun/0562: Ξ 29.38
+Bid data from https://nouns.wtf/noun/0563: Ξ 35.00
+Bid data from https://nouns.wtf/noun/0564: Ξ 30.89
+Bid data from https://nouns.wtf/noun/0565: Ξ 32.50
+Bid data from https://nouns.wtf/noun/0566: Ξ 34.73
+Bid data from https://nouns.wtf/noun/0567: Ξ 48.88
+Bid data from https://nouns.wtf/noun/0568: Ξ 36.00
+Bid data from https://nouns.wtf/noun/0569: Ξ 47.84
+Bid data from https://nouns.wtf/noun/0570: n/a
+Bid data from https://nouns.wtf/noun/0571: Ξ 31.00
+Bid data from https://nouns.wtf/noun/0572: Ξ 33.66
+Bid data from https://nouns.wtf/noun/0573: Ξ 37.23
+Bid data from https://nouns.wtf/noun/0574: Ξ 34.34
+Bid data from https://nouns.wtf/noun/0575: Ξ 39.84
+Bid data from https://nouns.wtf/noun/0576: Ξ 33.31
+Bid data from https://nouns.wtf/noun/0577: Ξ 34.68
+Bid data from https://nouns.wtf/noun/0578: Ξ 33.69
+Bid data from https://nouns.wtf/noun/0579: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0580: n/a
+Bid data from https://nouns.wtf/noun/0581: Ξ 30.00
+Bid data from https://nouns.wtf/noun/0582: Ξ 30.81
+Bid data from https://nouns.wtf/noun/0583: Ξ 33.33
+Bid data from https://nouns.wtf/noun/0584: Ξ 34.31
+Bid data from https://nouns.wtf/noun/0585: Ξ 34.00
+Bid data from https://nouns.wtf/noun/0586: Ξ 37.21
+Bid data from https://nouns.wtf/noun/0587: Ξ 30.09
+Bid data from https://nouns.wtf/noun/0588: Ξ 34.69
+Bid data from https://nouns.wtf/noun/0589: Ξ 36.21
+Bid data from https://nouns.wtf/noun/0590: n/a
+Bid data from https://nouns.wtf/noun/0591: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0592: Ξ 36.72
+Bid data from https://nouns.wtf/noun/0593: Ξ 31.00
+Bid data from https://nouns.wtf/noun/0594: Ξ 30.11
+Bid data from https://nouns.wtf/noun/0595: Ξ 34.00
+Bid data from https://nouns.wtf/noun/0596: Ξ 27.66
+Bid data from https://nouns.wtf/noun/0597: Ξ 40.80
+Bid data from https://nouns.wtf/noun/0598: Ξ 30.55
+Bid data from https://nouns.wtf/noun/0599: Ξ 45.00
+Bid data from https://nouns.wtf/noun/0600: n/a
+Bid data from https://nouns.wtf/noun/0601: Ξ 34.65
+Bid data from https://nouns.wtf/noun/0602: Ξ 36.00
+Bid data from https://nouns.wtf/noun/0603: Ξ 30.59
+Bid data from https://nouns.wtf/noun/0604: Ξ 27.65
+Bid data from https://nouns.wtf/noun/0605: Ξ 26.55
+Bid data from https://nouns.wtf/noun/0606: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0607: Ξ 51.28
+Bid data from https://nouns.wtf/noun/0608: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0609: Ξ 28.42
+Bid data from https://nouns.wtf/noun/0610: n/a
+Bid data from https://nouns.wtf/noun/0611: Ξ 23.20
+Bid data from https://nouns.wtf/noun/0612: Ξ 32.00
+Bid data from https://nouns.wtf/noun/0613: Ξ 27.63
+Bid data from https://nouns.wtf/noun/0614: Ξ 26.60
+Bid data from https://nouns.wtf/noun/0615: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0616: Ξ 27.23
+Bid data from https://nouns.wtf/noun/0617: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0618: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0619: Ξ 25.76
+Bid data from https://nouns.wtf/noun/0620: n/a
+Bid data from https://nouns.wtf/noun/0621: Ξ 26.30
+Bid data from https://nouns.wtf/noun/0622: Ξ 26.22
+Bid data from https://nouns.wtf/noun/0623: Ξ 25.00
+Bid data from https://nouns.wtf/noun/0624: Ξ 26.00
+Bid data from https://nouns.wtf/noun/0625: Ξ 24.44
+Bid data from https://nouns.wtf/noun/0626: Ξ 26.00
+Bid data from https://nouns.wtf/noun/0627: Ξ 42.84
+Bid data from https://nouns.wtf/noun/0628: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0629: Ξ 26.63
+Bid data from https://nouns.wtf/noun/0630: n/a
+Bid data from https://nouns.wtf/noun/0631: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0632: Ξ 28.50
+Bid data from https://nouns.wtf/noun/0633: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0634: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0635: Ξ 30.18
+Bid data from https://nouns.wtf/noun/0636: Ξ 27.30
+Bid data from https://nouns.wtf/noun/0637: Ξ 26.00
+Bid data from https://nouns.wtf/noun/0638: Ξ 27.51
+Bid data from https://nouns.wtf/noun/0639: Ξ 25.20
+Bid data from https://nouns.wtf/noun/0640: n/a
+Bid data from https://nouns.wtf/noun/0641: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0642: Ξ 25.43
+Bid data from https://nouns.wtf/noun/0643: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0644: Ξ 25.27
+Bid data from https://nouns.wtf/noun/0645: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0646: Ξ 27.20
+Bid data from https://nouns.wtf/noun/0647: Ξ 26.00
+Bid data from https://nouns.wtf/noun/0648: Ξ 27.31
+Bid data from https://nouns.wtf/noun/0649: Ξ 36.69
+Bid data from https://nouns.wtf/noun/0650: n/a
+Bid data from https://nouns.wtf/noun/0651: Ξ 33.00
+Bid data from https://nouns.wtf/noun/0652: Ξ 28.00
+Bid data from https://nouns.wtf/noun/0653: Ξ 27.06
+Bid data from https://nouns.wtf/noun/0654: Ξ 26.78
+Bid data from https://nouns.wtf/noun/0655: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0656: Ξ 27.63
+Bid data from https://nouns.wtf/noun/0657: Ξ 26.70
+Bid data from https://nouns.wtf/noun/0658: Ξ 51.00
+Bid data from https://nouns.wtf/noun/0659: Ξ 26.22
+Bid data from https://nouns.wtf/noun/0660: n/a
+Bid data from https://nouns.wtf/noun/0661: Ξ 26.12
+Bid data from https://nouns.wtf/noun/0662: Ξ 27.69
+Bid data from https://nouns.wtf/noun/0663: Ξ 28.05
+Bid data from https://nouns.wtf/noun/0664: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0665: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0666: Ξ 36.00
+Bid data from https://nouns.wtf/noun/0667: Ξ 30.10
+Bid data from https://nouns.wtf/noun/0668: Ξ 27.00
+Bid data from https://nouns.wtf/noun/0669: Ξ 28.62
+Bid data from https://nouns.wtf/noun/0670: n/a
+Bid data from https://nouns.wtf/noun/0671: Ξ 28.80
+Bid data from https://nouns.wtf/noun/0672: Ξ 28.10
+Bid data from https://nouns.wtf/noun/0673: Ξ 27.01
+Bid data from https://nouns.wtf/noun/0674: Ξ 27.00
+Bid data from https://nouns.wtf/noun/0675: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0676: Ξ 24.56
+Bid data from https://nouns.wtf/noun/0677: Ξ 24.97
+Bid data from https://nouns.wtf/noun/0678: Ξ 24.80
+Bid data from https://nouns.wtf/noun/0679: Ξ 25.49
+Bid data from https://nouns.wtf/noun/0680: n/a
+Bid data from https://nouns.wtf/noun/0681: Ξ 25.61
+Bid data from https://nouns.wtf/noun/0682: Ξ 25.61
+Bid data from https://nouns.wtf/noun/0683: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0684: Ξ 24.68
+Bid data from https://nouns.wtf/noun/0685: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0686: Ξ 25.01
+Bid data from https://nouns.wtf/noun/0687: Ξ 30.00
+Bid data from https://nouns.wtf/noun/0688: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0689: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0690: n/a
+Bid data from https://nouns.wtf/noun/0691: Ξ 25.33
+Bid data from https://nouns.wtf/noun/0692: Ξ 25.00
+Bid data from https://nouns.wtf/noun/0693: Ξ 25.08
+Bid data from https://nouns.wtf/noun/0694: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0695: Ξ 27.50
+Bid data from https://nouns.wtf/noun/0696: Ξ 28.35
+Bid data from https://nouns.wtf/noun/0697: Ξ 25.81
+Bid data from https://nouns.wtf/noun/0698: Ξ 24.90
+Bid data from https://nouns.wtf/noun/0699: Ξ 24.55
+Bid data from https://nouns.wtf/noun/0700: n/a
+Bid data from https://nouns.wtf/noun/0701: Ξ 25.00
+Bid data from https://nouns.wtf/noun/0702: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0703: Ξ 23.58
+Bid data from https://nouns.wtf/noun/0704: Ξ 22.67
+Bid data from https://nouns.wtf/noun/0705: Ξ 24.69
+Bid data from https://nouns.wtf/noun/0706: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0707: Ξ 24.59
+Bid data from https://nouns.wtf/noun/0708: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0709: Ξ 24.50
+Bid data from https://nouns.wtf/noun/0710: n/a
+Bid data from https://nouns.wtf/noun/0711: Ξ 26.12
+Bid data from https://nouns.wtf/noun/0712: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0713: Ξ 25.50
+Bid data from https://nouns.wtf/noun/0714: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0715: Ξ 27.09
+Bid data from https://nouns.wtf/noun/0716: Ξ 26.30
+Bid data from https://nouns.wtf/noun/0717: Ξ 27.06
+Bid data from https://nouns.wtf/noun/0718: Ξ 27.82
+Bid data from https://nouns.wtf/noun/0719: Ξ 27.95
+Bid data from https://nouns.wtf/noun/0720: n/a
+Bid data from https://nouns.wtf/noun/0721: Ξ 26.63
+Bid data from https://nouns.wtf/noun/0722: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0723: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0724: Ξ 26.69
+Bid data from https://nouns.wtf/noun/0725: Ξ 27.06
+Bid data from https://nouns.wtf/noun/0726: Ξ 26.54
+Bid data from https://nouns.wtf/noun/0727: Ξ 26.25
+Bid data from https://nouns.wtf/noun/0728: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0729: Ξ 26.52
+Bid data from https://nouns.wtf/noun/0730: n/a
+Bid data from https://nouns.wtf/noun/0731: Ξ 26.04
+Bid data from https://nouns.wtf/noun/0732: Ξ 26.78
+Bid data from https://nouns.wtf/noun/0733: Ξ 26.60
+Bid data from https://nouns.wtf/noun/0734: Ξ 27.06
+Bid data from https://nouns.wtf/noun/0735: Ξ 26.61
+Bid data from https://nouns.wtf/noun/0736: Ξ 27.14
+Bid data from https://nouns.wtf/noun/0737: Ξ 27.76
+Bid data from https://nouns.wtf/noun/0738: Ξ 28.16
+Bid data from https://nouns.wtf/noun/0739: Ξ 27.32
+Bid data from https://nouns.wtf/noun/0740: n/a
+Bid data from https://nouns.wtf/noun/0741: Ξ 27.00
+Bid data from https://nouns.wtf/noun/0742: Ξ 27.58
+Bid data from https://nouns.wtf/noun/0743: Ξ 27.15
+Bid data from https://nouns.wtf/noun/0744: Ξ 27.70
+Bid data from https://nouns.wtf/noun/0745: Ξ 27.70
+Bid data from https://nouns.wtf/noun/0746: Ξ 27.70
+Bid data from https://nouns.wtf/noun/0747: Ξ 28.10
+Bid data from https://nouns.wtf/noun/0748: Ξ 28.21
+Bid data from https://nouns.wtf/noun/0749: Ξ 29.40
+Bid data from https://nouns.wtf/noun/0750: n/a
+Bid data from https://nouns.wtf/noun/0751: Ξ 29.69
+Bid data from https://nouns.wtf/noun/0752: Ξ 29.28
+Bid data from https://nouns.wtf/noun/0753: Ξ 29.15
+Bid data from https://nouns.wtf/noun/0754: Ξ 29.58
+Bid data from https://nouns.wtf/noun/0755: Ξ 29.15
+Bid data from https://nouns.wtf/noun/0756: Ξ 29.75
+Bid data from https://nouns.wtf/noun/0757: Ξ 30.10
+Bid data from https://nouns.wtf/noun/0758: Ξ 30.70
+Bid data from https://nouns.wtf/noun/0759: Ξ 30.50
+Bid data from https://nouns.wtf/noun/0760: n/a
+Bid data from https://nouns.wtf/noun/0761: Ξ 31.22
+Bid data from https://nouns.wtf/noun/0762: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0763: Ξ 30.71
+Bid data from https://nouns.wtf/noun/0764: Ξ 31.22
+Bid data from https://nouns.wtf/noun/0765: Ξ 30.85
+Bid data from https://nouns.wtf/noun/0766: Ξ 31.64
+Bid data from https://nouns.wtf/noun/0767: Ξ 31.32
+Bid data from https://nouns.wtf/noun/0768: Ξ 30.80
+Bid data from https://nouns.wtf/noun/0769: Ξ 30.70
+Bid data from https://nouns.wtf/noun/0770: n/a
+Bid data from https://nouns.wtf/noun/0771: Ξ 30.75
+Bid data from https://nouns.wtf/noun/0772: Ξ 30.65
+Bid data from https://nouns.wtf/noun/0773: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0774: Ξ 31.27
+Bid data from https://nouns.wtf/noun/0775: Ξ 31.42
+Bid data from https://nouns.wtf/noun/0776: Ξ 31.78
+Bid data from https://nouns.wtf/noun/0777: Ξ 29.74
+Bid data from https://nouns.wtf/noun/0778: Ξ 29.70
+Bid data from https://nouns.wtf/noun/0779: Ξ 29.40
+Bid data from https://nouns.wtf/noun/0780: n/a
+Bid data from https://nouns.wtf/noun/0781: Ξ 29.25
+Bid data from https://nouns.wtf/noun/0782: Ξ 29.28
+Bid data from https://nouns.wtf/noun/0783: Ξ 29.79
+Bid data from https://nouns.wtf/noun/0784: Ξ 29.40
+Bid data from https://nouns.wtf/noun/0785: Ξ 29.30
+Bid data from https://nouns.wtf/noun/0786: Ξ 29.20
+Bid data from https://nouns.wtf/noun/0787: Ξ 28.82
+Bid data from https://nouns.wtf/noun/0788: Ξ 30.00
+Bid data from https://nouns.wtf/noun/0789: Ξ 30.00
+Bid data from https://nouns.wtf/noun/0790: n/a
+Bid data from https://nouns.wtf/noun/0791: Ξ 30.00
+Bid data from https://nouns.wtf/noun/0792: Ξ 30.20
+Bid data from https://nouns.wtf/noun/0793: Ξ 30.40
+Bid data from https://nouns.wtf/noun/0794: Ξ 30.60
+Bid data from https://nouns.wtf/noun/0795: Ξ 31.01
+Bid data from https://nouns.wtf/noun/0796: Ξ 30.75
+Bid data from https://nouns.wtf/noun/0797: Ξ 31.22
+Bid data from https://nouns.wtf/noun/0798: Ξ 31.95
+Bid data from https://nouns.wtf/noun/0799: Ξ 32.35
+Bid data from https://nouns.wtf/noun/0800: n/a
+Bid data from https://nouns.wtf/noun/0801: Ξ 32.03
+Bid data from https://nouns.wtf/noun/0802: Ξ 31.52
+Bid data from https://nouns.wtf/noun/0803: Ξ 31.50
+Bid data from https://nouns.wtf/noun/0804: Ξ 31.30
+Bid data from https://nouns.wtf/noun/0805: Ξ 32.68
+Bid data from https://nouns.wtf/noun/0806: Ξ 32.64
+Bid data from https://nouns.wtf/noun/0807: Ξ 33.05
+Bid data from https://nouns.wtf/noun/0808: Ξ 32.60
+Bid data from https://nouns.wtf/noun/0809: Ξ 32.50
+Bid data from https://nouns.wtf/noun/0810: n/a
+Bid data from https://nouns.wtf/noun/0811: Ξ 32.55
+Bid data from https://nouns.wtf/noun/0812: Ξ 30.28
+Bid data from https://nouns.wtf/noun/0813: Ξ 31.25
+Bid data from https://nouns.wtf/noun/0814: Ξ 31.22
+Bid data from https://nouns.wtf/noun/0815: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0816: Ξ 31.32
+Bid data from https://nouns.wtf/noun/0817: Ξ 31.62
+Bid data from https://nouns.wtf/noun/0818: Ξ 31.93
+Bid data from https://nouns.wtf/noun/0819: Ξ 31.66
+Bid data from https://nouns.wtf/noun/0820: n/a
+Bid data from https://nouns.wtf/noun/0821: Ξ 31.45
+Bid data from https://nouns.wtf/noun/0822: Ξ 31.93
+Bid data from https://nouns.wtf/noun/0823: Ξ 32.03
+Bid data from https://nouns.wtf/noun/0824: Ξ 31.98
+Bid data from https://nouns.wtf/noun/0825: Ξ 33.87
+Bid data from https://nouns.wtf/noun/0826: Ξ 35.09
+Bid data from https://nouns.wtf/noun/0827: Ξ 33.70
+Bid data from https://nouns.wtf/noun/0828: Ξ 33.50
+Bid data from https://nouns.wtf/noun/0829: Ξ 33.77
+Bid data from https://nouns.wtf/noun/0830: n/a
+Bid data from https://nouns.wtf/noun/0831: Ξ 33.00
+Bid data from https://nouns.wtf/noun/0832: Ξ 33.20
+Bid data from https://nouns.wtf/noun/0833: Ξ 33.25
+Bid data from https://nouns.wtf/noun/0834: Ξ 33.66
+Bid data from https://nouns.wtf/noun/0835: Ξ 33.77
+Bid data from https://nouns.wtf/noun/0836: Ξ 33.77
+Bid data from https://nouns.wtf/noun/0837: Ξ 34.33
+Bid data from https://nouns.wtf/noun/0838: Ξ 35.11
+Bid data from https://nouns.wtf/noun/0839: Ξ 35.30
+Bid data from https://nouns.wtf/noun/0840: n/a
+Bid data from https://nouns.wtf/noun/0841: Ξ 35.30
+Bid data from https://nouns.wtf/noun/0842: Ξ 35.30
+Bid data from https://nouns.wtf/noun/0843: Ξ 36.01
+Bid data from https://nouns.wtf/noun/0844: Ξ 36.32
+Bid data from https://nouns.wtf/noun/0845: Ξ 35.85
+Bid data from https://nouns.wtf/noun/0846: Ξ 34.79
+Bid data from https://nouns.wtf/noun/0847: Ξ 34.82
+Bid data from https://nouns.wtf/noun/0848: Ξ 34.16
+Bid data from https://nouns.wtf/noun/0849: Ξ 32.00
+Bid data from https://nouns.wtf/noun/0850: n/a
+Bid data from https://nouns.wtf/noun/0851: Ξ 30.40
+Bid data from https://nouns.wtf/noun/0852: Ξ 29.43
+Bid data from https://nouns.wtf/noun/0853: Ξ 16.35
+Bid data from https://nouns.wtf/noun/0854: Ξ 19.64
+Bid data from https://nouns.wtf/noun/0855: Ξ 19.00
+Bid data from https://nouns.wtf/noun/0856: Ξ 20.46
+Bid data from https://nouns.wtf/noun/0857: Ξ 22.00
+Bid data from https://nouns.wtf/noun/0858: Ξ 22.74
+Bid data from https://nouns.wtf/noun/0859: Ξ 22.74
+Bid data from https://nouns.wtf/noun/0860: n/a
+Bid data from https://nouns.wtf/noun/0861: Ξ 23.01
+Bid data from https://nouns.wtf/noun/0862: Ξ 26.01
+Bid data from https://nouns.wtf/noun/0863: Ξ 25.65
+Bid data from https://nouns.wtf/noun/0864: Ξ 29.32
+Bid data from https://nouns.wtf/noun/0865: Ξ 29.65
+Bid data from https://nouns.wtf/noun/0866: Ξ 29.50
+Bid data from https://nouns.wtf/noun/0867: Ξ 31.00
+Bid data from https://nouns.wtf/noun/0868: Ξ 31.20
+Bid data from https://nouns.wtf/noun/0869: Ξ 31.83
+Bid data from https://nouns.wtf/noun/0870: n/a
+Bid data from https://nouns.wtf/noun/0871: Ξ 33.90
+Bid data from https://nouns.wtf/noun/0872: Ξ 33.20
+Bid data from https://nouns.wtf/noun/0873: Ξ 33.10
+Bid data from https://nouns.wtf/noun/0874: Ξ 33.77
+Bid data from https://nouns.wtf/noun/0875: Ξ 31.00
+Bid data from https://nouns.wtf/noun/0876: Ξ 28.76
+Bid data from https://nouns.wtf/noun/0877: Ξ 23.23
+Bid data from https://nouns.wtf/noun/0878: Ξ 23.00
+Bid data from https://nouns.wtf/noun/0879: Ξ 21.88
+Bid data from https://nouns.wtf/noun/0880: n/a
+Bid data from https://nouns.wtf/noun/0881: Ξ 25.00
+Bid data from https://nouns.wtf/noun/0882: Ξ 6.90
+Bid data from https://nouns.wtf/noun/0883: Ξ 20.40
+Bid data from https://nouns.wtf/noun/0884: Ξ 20.00
+Bid data from https://nouns.wtf/noun/0885: Ξ 17.00
+Bid data from https://nouns.wtf/noun/0886: Ξ 18.59
+Bid data from https://nouns.wtf/noun/0887: Ξ 18.00
+Bid data from https://nouns.wtf/noun/0888: Ξ 19.00
+Bid data from https://nouns.wtf/noun/0889: Ξ 18.87
+Bid data from https://nouns.wtf/noun/0890: n/a
+Bid data from https://nouns.wtf/noun/0891: Ξ 19.00
+Bid data from https://nouns.wtf/noun/0892: Ξ 19.90
+Bid data from https://nouns.wtf/noun/0893: Ξ 19.80
+Bid data from https://nouns.wtf/noun/0894: Ξ 19.75
+Bid data from https://nouns.wtf/noun/0895: Ξ 20.00
+Bid data from https://nouns.wtf/noun/0896: Ξ 19.95
+Bid data from https://nouns.wtf/noun/0897: Ξ 20.93
+Bid data from https://nouns.wtf/noun/0898: Ξ 21.98
+Bid data from https://nouns.wtf/noun/0899: Ξ 21.66
+Bid data from https://nouns.wtf/noun/0900: n/a
+Bid data from https://nouns.wtf/noun/0901: Ξ 21.00
+Bid data from https://nouns.wtf/noun/0902: Ξ 21.85
+Bid data from https://nouns.wtf/noun/0903: Ξ 20.20
+Bid data from https://nouns.wtf/noun/0904: Ξ 20.40
+Bid data from https://nouns.wtf/noun/0905: Ξ 20.09
+Bid data from https://nouns.wtf/noun/0906: Ξ 20.71
+Bid data from https://nouns.wtf/noun/0907: Ξ 18.65
+Bid data from https://nouns.wtf/noun/0908: Ξ 22.00
+Bid data from https://nouns.wtf/noun/0909: Ξ 21.93
+Bid data from https://nouns.wtf/noun/0910: n/a
+Bid data from https://nouns.wtf/noun/0911: Ξ 22.00
+Bid data from https://nouns.wtf/noun/0912: Ξ 22.50
+Bid data from https://nouns.wtf/noun/0913: Ξ 22.65
+Bid data from https://nouns.wtf/noun/0914: Ξ 23.26
+Bid data from https://nouns.wtf/noun/0915: Ξ 23.77
+Bid data from https://nouns.wtf/noun/0916: Ξ 23.50
+Bid data from https://nouns.wtf/noun/0917: Ξ 23.24
+Bid data from https://nouns.wtf/noun/0918: Ξ 20.50
+Bid data from https://nouns.wtf/noun/0919: Ξ 20.23
+Bid data from https://nouns.wtf/noun/0920: n/a
+Bid data from https://nouns.wtf/noun/0921: Ξ 15.00
+Bid data from https://nouns.wtf/noun/0922: Ξ 16.00
+Bid data from https://nouns.wtf/noun/0923: Ξ 16.20
+Bid data from https://nouns.wtf/noun/0924: Ξ 16.32
+Bid data from https://nouns.wtf/noun/0925: Ξ 16.00
+Bid data from https://nouns.wtf/noun/0926: Ξ 15.50
+Bid data from https://nouns.wtf/noun/0927: Ξ 16.50
+Bid data from https://nouns.wtf/noun/0928: Ξ 14.75
+Bid data from https://nouns.wtf/noun/0929: Ξ 11.66
+Bid data from https://nouns.wtf/noun/0930: n/a
+Bid data from https://nouns.wtf/noun/0931: Ξ 12.00
+Bid data from https://nouns.wtf/noun/0932: Ξ 12.00
+Bid data from https://nouns.wtf/noun/0933: Ξ 12.24
+Bid data from https://nouns.wtf/noun/0934: Ξ 13.00
+Bid data from https://nouns.wtf/noun/0935: Ξ 13.00
+Bid data from https://nouns.wtf/noun/0936: Ξ 12.50
+Bid data from https://nouns.wtf/noun/0937: Ξ 11.79
+Bid data from https://nouns.wtf/noun/0938: Ξ 12.00
+Bid data from https://nouns.wtf/noun/0939: Ξ 12.05
+Bid data from https://nouns.wtf/noun/0940: n/a
+Bid data from https://nouns.wtf/noun/0941: Ξ 11.43
+Bid data from https://nouns.wtf/noun/0942: Ξ 12.10
+Bid data from https://nouns.wtf/noun/0943: Ξ 12.25
+Bid data from https://nouns.wtf/noun/0944: Ξ 12.25
+Bid data from https://nouns.wtf/noun/0945: Ξ 13.07
+Bid data from https://nouns.wtf/noun/0946: Ξ 11.75
+Bid data from https://nouns.wtf/noun/0947: Ξ 11.46
+Bid data from https://nouns.wtf/noun/0948: Ξ 10.65
+Bid data from https://nouns.wtf/noun/0949: Ξ 11.22
+Bid data from https://nouns.wtf/noun/0950: n/a
+Bid data from https://nouns.wtf/noun/0951: Ξ 10.00
+Bid data from https://nouns.wtf/noun/0952: Ξ 11.11
+Bid data from https://nouns.wtf/noun/0953: Ξ 10.00
+Bid data from https://nouns.wtf/noun/0954: Ξ 10.22
+Bid data from https://nouns.wtf/noun/0955: Ξ 10.71
+Bid data from https://nouns.wtf/noun/0956: Ξ 10.30
+Bid data from https://nouns.wtf/noun/0957: Ξ 10.00
+Bid data from https://nouns.wtf/noun/0958: Ξ 10.01
+Bid data from https://nouns.wtf/noun/0959: Ξ 9.52
+Bid data from https://nouns.wtf/noun/0960: n/a
+Bid data from https://nouns.wtf/noun/0961: Ξ 9.00
+Bid data from https://nouns.wtf/noun/0962: Ξ 9.10
+Bid data from https://nouns.wtf/noun/0963: Ξ 8.61
+Bid data from https://nouns.wtf/noun/0964: Ξ 7.50
+Bid data from https://nouns.wtf/noun/0965: Ξ 8.50
+Bid data from https://nouns.wtf/noun/0966: Ξ 7.85
+Bid data from https://nouns.wtf/noun/0967: Ξ 8.67
+Bid data from https://nouns.wtf/noun/0968: Ξ 7.65
+Bid data from https://nouns.wtf/noun/0969: Ξ 7.04
+Bid data from https://nouns.wtf/noun/0970: n/a
+Bid data from https://nouns.wtf/noun/0971: Ξ 7.40
+Bid data from https://nouns.wtf/noun/0972: Ξ 6.63
+Bid data from https://nouns.wtf/noun/0973: Ξ 7.55
+Bid data from https://nouns.wtf/noun/0974: Ξ 7.75
+Bid data from https://nouns.wtf/noun/0975: Ξ 8.27
+Bid data from https://nouns.wtf/noun/0976: Ξ 8.16
+Bid data from https://nouns.wtf/noun/0977: Ξ 8.85
+Bid data from https://nouns.wtf/noun/0978: Ξ 7.75
+Bid data from https://nouns.wtf/noun/0979: Ξ 8.18
+Bid data from https://nouns.wtf/noun/0980: n/a
+Bid data from https://nouns.wtf/noun/0981: Ξ 9.60
+Bid data from https://nouns.wtf/noun/0982: Ξ 8.67
+Bid data from https://nouns.wtf/noun/0983: Ξ 8.37
+Bid data from https://nouns.wtf/noun/0984: Ξ 8.10
+Bid data from https://nouns.wtf/noun/0985: Ξ 2.27
+Bid data from https://nouns.wtf/noun/0986: Ξ 7.12
+Bid data from https://nouns.wtf/noun/0987: Ξ 7.55
+Bid data from https://nouns.wtf/noun/0988: Ξ 8.33
+Bid data from https://nouns.wtf/noun/0989: Ξ 7.16
+Bid data from https://nouns.wtf/noun/0990: n/a
+Bid data from https://nouns.wtf/noun/0991: Ξ 8.00
+Bid data from https://nouns.wtf/noun/0992: Ξ 8.13
+Bid data from https://nouns.wtf/noun/0993: Ξ 7.41
+Bid data from https://nouns.wtf/noun/0994: Ξ 8.16
+Bid data from https://nouns.wtf/noun/0995: Ξ 7.93
+Bid data from https://nouns.wtf/noun/0996: Ξ 7.26
+Bid data from https://nouns.wtf/noun/0997: Ξ 8.00
+Bid data from https://nouns.wtf/noun/0998: Ξ 7.76
+Bid data from https://nouns.wtf/noun/0999: Ξ 10.19
+Bid data from https://nouns.wtf/noun/1000: n/a
+Bid data from https://nouns.wtf/noun/1001: Ξ 7.71
+Bid data from https://nouns.wtf/noun/1002: Ξ 7.77
+Bid data from https://nouns.wtf/noun/1003: Ξ 7.47
+Bid data from https://nouns.wtf/noun/1004: Ξ 7.02
+Bid data from https://nouns.wtf/noun/1005: Ξ 7.11
+Bid data from https://nouns.wtf/noun/1006: Ξ 7.47
+Bid data from https://nouns.wtf/noun/1007: Ξ 8.00
+Bid data from https://nouns.wtf/noun/1008: Ξ 7.69
+Bid data from https://nouns.wtf/noun/1009: Ξ 7.58
+Bid data from https://nouns.wtf/noun/1010: n/a
+Bid data from https://nouns.wtf/noun/1011: Ξ 6.80
+Bid data from https://nouns.wtf/noun/1012: Ξ 8.00
+Bid data from https://nouns.wtf/noun/1013: Ξ 7.07
+Bid data from https://nouns.wtf/noun/1014: Ξ 7.00
+Bid data from https://nouns.wtf/noun/1015: Ξ 7.20
+Bid data from https://nouns.wtf/noun/1016: Ξ 9.18
+Bid data from https://nouns.wtf/noun/1017: Ξ 7.50
+Bid data from https://nouns.wtf/noun/1018: Ξ 6.00
+Bid data from https://nouns.wtf/noun/1019: Ξ 7.00
+Bid data from https://nouns.wtf/noun/1020: n/a
+Bid data from https://nouns.wtf/noun/1021: Ξ 6.15
+Bid data from https://nouns.wtf/noun/1022: Ξ 6.20
+Bid data from https://nouns.wtf/noun/1023: Ξ 5.30
+Bid data from https://nouns.wtf/noun/1024: Ξ 5.78
+Bid data from https://nouns.wtf/noun/1025: Ξ 7.75
+Bid data from https://nouns.wtf/noun/1026: Ξ 5.90
+Bid data from https://nouns.wtf/noun/1027: Ξ 6.00
+Bid data from https://nouns.wtf/noun/1028: Ξ 6.41
+Bid data from https://nouns.wtf/noun/1029: Ξ 7.85
+Bid data from https://nouns.wtf/noun/1030: n/a
+Bid data from https://nouns.wtf/noun/1031: Ξ 6.00
+Bid data from https://nouns.wtf/noun/1032: Ξ 5.75
+Bid data from https://nouns.wtf/noun/1033: Ξ 6.12
+Bid data from https://nouns.wtf/noun/1034: Ξ 6.22
+Bid data from https://nouns.wtf/noun/1035: Ξ 6.22
+Bid data from https://nouns.wtf/noun/1036: Ξ 6.20
+Bid data from https://nouns.wtf/noun/1037: Ξ 6.22
+Bid data from https://nouns.wtf/noun/1038: Ξ 5.77
+Bid data from https://nouns.wtf/noun/1039: Ξ 4.47
+Bid data from https://nouns.wtf/noun/1040: n/a
+Bid data from https://nouns.wtf/noun/1041: Ξ 6.01
+Bid data from https://nouns.wtf/noun/1042: Ξ 4.90
+Bid data from https://nouns.wtf/noun/1043: Ξ 5.94
+Bid data from https://nouns.wtf/noun/1044: Ξ 5.00
+Bid data from https://nouns.wtf/noun/1045: Ξ 5.31
+Bid data from https://nouns.wtf/noun/1046: Ξ 5.08
+Bid data from https://nouns.wtf/noun/1047: Ξ 5.70
+Bid data from https://nouns.wtf/noun/1048: Ξ 5.21
+Bid data from https://nouns.wtf/noun/1049: Ξ 5.31
+Bid data from https://nouns.wtf/noun/1050: n/a
+Bid data from https://nouns.wtf/noun/1051: Ξ 5.70
+Bid data from https://nouns.wtf/noun/1052: Ξ 5.66
+Bid data from https://nouns.wtf/noun/1053: Ξ 5.70
+Bid data from https://nouns.wtf/noun/1054: Ξ 5.88
+Bid data from https://nouns.wtf/noun/1055: Ξ 5.88
+Bid data from https://nouns.wtf/noun/1056: Ξ 6.80
+Bid data from https://nouns.wtf/noun/1057: Ξ 7.50
+Bid data from https://nouns.wtf/noun/1058: Ξ 6.91
+Bid data from https://nouns.wtf/noun/1059: Ξ 6.99
+Bid data from https://nouns.wtf/noun/1060: n/a
+Bid data from https://nouns.wtf/noun/1061: Ξ 6.99
+Bid data from https://nouns.wtf/noun/1062: Ξ 7.28
+Bid data from https://nouns.wtf/noun/1063: Ξ 8.85
+Bid data from https://nouns.wtf/noun/1064: Ξ 7.79
+Bid data from https://nouns.wtf/noun/1065: Ξ 8.76
+Bid data from https://nouns.wtf/noun/1066: Ξ 8.69
+Bid data from https://nouns.wtf/noun/1067: Ξ 8.48
+Bid data from https://nouns.wtf/noun/1068: Ξ 7.59
+Bid data from https://nouns.wtf/noun/1069: Ξ 7.50
+Bid data from https://nouns.wtf/noun/1070: n/a
+Bid data from https://nouns.wtf/noun/1071: Ξ 6.20
+Bid data from https://nouns.wtf/noun/1072: Ξ 6.66
+Bid data from https://nouns.wtf/noun/1073: Ξ 6.57
+Bid data from https://nouns.wtf/noun/1074: Ξ 7.53
+Bid data from https://nouns.wtf/noun/1075: Ξ 7.59
+Bid data from https://nouns.wtf/noun/1076: Ξ 7.58
+Bid data from https://nouns.wtf/noun/1077: Ξ 7.14
+Bid data from https://nouns.wtf/noun/1078: Ξ 7.64
+Bid data from https://nouns.wtf/noun/1079: Ξ 7.07
+Bid data from https://nouns.wtf/noun/1080: n/a
+Bid data from https://nouns.wtf/noun/1081: Ξ 7.50
+Bid data from https://nouns.wtf/noun/1082: Ξ 6.90
+Bid data from https://nouns.wtf/noun/1083: Ξ 7.77
+Bid data from https://nouns.wtf/noun/1084: Ξ 7.11
+Bid data from https://nouns.wtf/noun/1085: Ξ 8.50
+Bid data from https://nouns.wtf/noun/1086: Ξ 8.00
+Bid data from https://nouns.wtf/noun/1087: Ξ 9.33
+Bid data from https://nouns.wtf/noun/1088: Ξ 7.20
+Bid data from https://nouns.wtf/noun/1089: Ξ 6.88
+Bid data from https://nouns.wtf/noun/1090: n/a
+Bid data from https://nouns.wtf/noun/1091: Ξ 7.11
+Bid data from https://nouns.wtf/noun/1092: Ξ 9.11
+Bid data from https://nouns.wtf/noun/1093: Ξ 7.88
+Bid data from https://nouns.wtf/noun/1094: Ξ 8.73
+Bid data from https://nouns.wtf/noun/1095: Ξ 8.88
+Bid data from https://nouns.wtf/noun/1096: Ξ 8.37
+Bid data from https://nouns.wtf/noun/1097: Ξ 8.00
+Bid data from https://nouns.wtf/noun/1098: Ξ 7.00
+Bid data from https://nouns.wtf/noun/1099: Ξ 7.95
+Bid data from https://nouns.wtf/noun/1100: n/a
+Bid data from https://nouns.wtf/noun/1101: Ξ 7.11
+Bid data from https://nouns.wtf/noun/1102: Ξ 7.44
+Bid data from https://nouns.wtf/noun/1103: Ξ 4.44
+Bid data from https://nouns.wtf/noun/1104: Ξ 7.40
